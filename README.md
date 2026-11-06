@@ -26,15 +26,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=semonaftab6-hub&show_icons=true&theme=radical&hide_border=true" alt="Semon's GitHub Stats" />
-
-</div>
-
----
 <div align="center">
   <p>⭐ *Thanks for visiting my profile! Feel free to connect with me.* ⭐</p>
 </div>
