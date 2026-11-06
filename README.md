@@ -27,5 +27,5 @@
 ---
 
 <div align="center">
-  <p>⭐ *Thanks for visiting my profile! Feel free to connect with me.* ⭐</p>
+  <p>⭐ *Thanks for visiting my profile!.* ⭐</p>
 </div>
